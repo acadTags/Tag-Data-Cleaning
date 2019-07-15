@@ -7,6 +7,9 @@
 # the program will generate a pickle file, saving a dictionary type variable,
 # where each key is a raw tag and each value is the standard form of the raw tag in the corresponding key.
 
+# author: Hang Dong
+# last edit: 16 July 2019
+
 from nltk.metrics import *
 from LeeLemmatizer import *
 #from lee_lemmatizer_master import LeeLemmatizer

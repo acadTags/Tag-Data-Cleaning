@@ -7,9 +7,9 @@ The repository also contains the supplementary material for the paper:
 
 The [Lee-Lemmatizer](https://github.com/qingxiang-jia/lee-lemmatizer), contained in the repository, is applied for lemmatisation of single-word tags.
 
-The supplementary material contains the extracted multiword and single-word tag groups from the Bibsonomy data, the specification of treatment of special characters and further explanation on the data format. For details, see the description file.
+The supplementary material contains the [descriptions](https://github.com/acadTags/tag-data-cleaning/blob/master/readme%20supplementary%20files.pdf), the extracted multiword tag groups ([Material 2](https://github.com/acadTags/tag-data-cleaning/blob/master/Material%202_Full%20multiword%20tag%20groups%20after%20step%204.txt)) and single-word tag groups ([Material 3](https://github.com/acadTags/tag-data-cleaning/blob/master/Material%203_Full_single%20tag%20groups%20after%20step%204.txt)) from the Bibsonomy data, the specification of treatment of special characters ([Material 1](https://github.com/acadTags/tag-data-cleaning/blob/master/Material%201_Table%20for%20handling%20specific%20characters.pdf)). For details, see the description file.
 
-A simplified code implementated in Python is also provided, which applies the data cleaning steps for the CiteULike-a dataset; the code does not implement all steps described in the paper, but most of the ideas are retained.
+A simplified code implementated in Python is also provided, [```tag-cleaning.py```](), which applies the data cleaning steps for the CiteULike-a dataset; the code does not implement all steps described in the paper, but most of the ideas are retained.
 
 # Acknowledgement
 * Thanks to the Lee-Lemmatizer, under the license of GNU GPL v3, license information in [lee-lemmatizer google code repository](https://code.google.com/archive/p/lee-lemmatizer/).
