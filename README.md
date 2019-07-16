@@ -1,6 +1,6 @@
 # Data Cleaning workflow for social tags
 
-The repository also contains the supplementary material ([readme files](https://github.com/acadTags/tag-data-cleaning/blob/master/readme%20supplementary%20files.pdf)) for the paper:
+The repository contains the supplementary material ([readme files](https://github.com/acadTags/tag-data-cleaning/blob/master/readme%20supplementary%20files.pdf)) for the paper:
 * Deriving Dynamic Knowledge from Academic Social Tagging Data: A Novel Research Direction, iConference 2017 ([paper](https://www.ideals.illinois.edu/bitstream/handle/2142/96693/3.13_170_Dong-Deriving%20Dynamic%20Knowledge%20from%20Academic%20Social%20Tagging%20Data.pdf?sequence=1&isAllowed=y), [poster](http://cgi.csc.liv.ac.uk/~hang/ppt/iConference%20Poster%20pptx%20Deriving%20Dynamic%20Knowledge%20from%20Academic%20Social%20Tagging%20Data.pdf)).
 
 The program provides a simplied implementation of Data Cleaning workflow for noisy user-generated social tagging data, such as [Bibsonomy](https://www.bibsonomy.org/), CiteULike, [MovieLens](https://movielens.org/), etc. The program takes a list of raw tags as input, and output cleaned multi-word and single-word tag groups based on simple morphological and statistical analyses, see the extracted tag groups in ([Material 2](https://github.com/acadTags/tag-data-cleaning/blob/master/Material%202_Full%20multiword%20tag%20groups%20after%20step%204.txt)).
