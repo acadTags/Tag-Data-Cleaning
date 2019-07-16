@@ -8,7 +8,7 @@ The program provides a simplied implementation of Data Cleaning workflow for noi
 An illustration of the data cleanning process is below:
 
 <p align="center">
-    <img src="https://github.com/acadTags/tag-data-cleaning/blob/master/data-clean-bib.png" width="700" title="Extraction of multi-word and single-word tag groups from user-generated tags in Bibsonomy">
+    <img src="https://github.com/acadTags/tag-data-cleaning/blob/master/data-clean-bib.png" width="850" title="Extraction of multi-word and single-word tag groups from user-generated tags in Bibsonomy">
 </p>
 
 The [Lee-Lemmatizer](https://github.com/qingxiang-jia/lee-lemmatizer), contained in the repository, is applied for lemmatisation of single-word tags.
